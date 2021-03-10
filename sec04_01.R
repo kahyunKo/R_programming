@@ -8,3 +8,7 @@ class <- c(1,1,2,2)
 class
 df_midterm <-data.frame(english, math, class)
 df_midterm
+
+mean(df_midterm$english)
+mean(df_midterm$math)
+
